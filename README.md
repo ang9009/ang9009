@@ -3,4 +3,4 @@
    <div align="center">blathers my beloved</div>
 </p>
 <br>
-<blockquote align="center">I'm a college student trying to figure out what I'm going to do with the rest of my life. Most of my explorative hobby projects can be found here. If you'd like to contact me, my discord can be found <a href="https://discord.com/users/195736618064281610">here</a>.</blockquote>
+<blockquote align="center">I'm a college student trying to figure out what I'm going to do with the rest of my life. Most of my explorative hobby projects can be found here. If you'd like to contact me, <a href="https://discord.com/users/195736618064281610">here's my discord</a>!</blockquote>
