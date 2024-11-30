@@ -3,4 +3,4 @@
    <blockquote align="center">blathers my beloved</blockquote>
 </p>
 <br>
-<p align="center">I'm a college student trying to figure out what I'm going to do with the rest of my life. My efforts at trying to do that can be found on this page, where most of my explorative projects live. If you'd like to contact me, <a href="https://discord.com/users/195736618064281610">here's my discord</a>!</p>
+<p align="center">I'm a college student trying to figure out what I'm going to do with the rest of my life. My efforts to do so can be found on this page, where most of my explorative projects live. If you'd like to contact me, <a href="https://discord.com/users/195736618064281610">here's my discord</a>!</p>
