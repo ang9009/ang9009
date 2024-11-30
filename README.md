@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://64.media.tumblr.com/tumblr_mbqzptoTy61qeg6edo1_r2_250.gifv" />
+   <img src="https://github.com/user-attachments/assets/555c4c11-0547-419f-b6bb-4fb9eb484983" />
    <div align="center"><i color="gray">blathers my beloved</i></div>
 </p>
 <br>
